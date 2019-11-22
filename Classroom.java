@@ -5,16 +5,16 @@ public class Classroom {
 	public static void main(String[] args) {
 		
 		//New Wilder Marcel
-		Wilder Marcel = new Wilder ("Marcel", true);
-		Marcel.whoAmI();
+		Wilder marcel = new Wilder ("Marcel", true);
+		marcel.whoAmI();
 
 		//New Wilder Martin
-		Wilder Martin = new Wilder ("Martin", false);
-		Martin.whoAmI();
+		Wilder martin = new Wilder ("Martin", false);
+		martin.whoAmI();
 
 		//New Wilder Steffi
-		Wilder Steffi = new Wilder ("Steffi", false);
-		Steffi.whoAmI();
+		Wilder steffi = new Wilder ("Steffi", false);
+		steffi.whoAmI();
 	}
 
 }
